@@ -1,0 +1,16 @@
+Hostname,IP Address,Patched?,OS Version,Notes
+A.example.COM,1.1.1.1,NO,11,Faulty fans
+b.example.com,1.1.1.2,no,13,Behind the other routers so no one sees it
+C.EXAMPLE.COM,1.1.1.3,no,12.1,
+d.example.com,1.1.1.4,yes,14,
+c.example.com,1.1.1.5,no,12,Case a bit loose
+e.example.com,1.1.1.6,no,12.3,
+f.example.com,1.1.1.7,No,12.200,
+g.example.com,1.1.1.6,no,15.0,Guarded by sharks with lasers on their heads
+
+12.12.12,1.1.1.8,no,15,New
+sample.sample1.sample,1.1.a.9,no,15,New,,
+sample.sample2.sample,1.1.2.1,no,17,,,,
+sample.sample3.sample,1.1.2.2,maybe?,17,new
+sample.sample4.sample,1.1.2.3,
+sample.sample5.sample,1.1.2.2,no,-12,new

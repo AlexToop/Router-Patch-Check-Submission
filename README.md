@@ -3,7 +3,7 @@ My submission to BT for the Router Patch Check Coding Test.
 
 To follow specification, details regarding the running of this program are stored in the README.txt
 
-Summary:
+Submission:
 	Program is written using Java. 
 
 	JDK 1.8 can compile the program using javac.
